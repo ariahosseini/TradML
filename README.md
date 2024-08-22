@@ -1,0 +1,2 @@
+# TradML
+Tranditional ML methods 
